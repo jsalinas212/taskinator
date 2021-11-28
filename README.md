@@ -12,7 +12,7 @@ Taskinator will allow you to organize your personal to-do list items by using a 
 
 ## Website
 
-Soon!
+[Taskinator](https://jsalinas212.github.io/taskinator/)
 
 ## Author
 
