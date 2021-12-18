@@ -25,7 +25,7 @@ var taskFormHandler = function(event) {
 
 var createTaskEl = function(taskDataObj) {
     // create list item
-    var listItemEl = document.createElement("li");
+    var listItemEl = document.createElement("li"); 
     listItemEl.className = "task-item";
 
     // create div to hold task info and add to list item
